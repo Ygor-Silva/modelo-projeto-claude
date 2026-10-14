@@ -1,0 +1,7 @@
+{
+  "name": "acompanha-projeto",
+  "version": "0.1.1",
+  "description": "Faixa acima do prompt com o andamento do projeto, a conformidade LGPD e a segurança em %, e o painel /projeto com cada item",
+  "author": { "name": "Ygor Silva" },
+  "types": "./types/index.d.ts"
+}

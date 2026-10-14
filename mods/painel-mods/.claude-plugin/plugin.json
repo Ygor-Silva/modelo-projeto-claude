@@ -1,0 +1,7 @@
+{
+  "name": "painel-mods",
+  "version": "0.1.0",
+  "description": "Comando /mods: painel com os mods instalados pelo app e os plugins da conta, com botão para ligar e desligar cada mod",
+  "author": { "name": "Ygor Silva" },
+  "types": "./types/index.d.ts"
+}

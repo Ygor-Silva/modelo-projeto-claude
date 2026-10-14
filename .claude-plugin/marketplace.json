@@ -1,0 +1,22 @@
+{
+  "name": "modelo-projeto-claude",
+  "owner": { "name": "Ygor Silva" },
+  "description": "Mods do Claude Code: barra de uso, acompanhamento do projeto (LGPD e segurança) e painel /mods",
+  "plugins": [
+    {
+      "name": "barra-uso",
+      "source": "./mods/barra-uso",
+      "description": "Faixa acima do prompt com o uso do contexto, da sessão de 5h e da semana, em grade de quadradinhos"
+    },
+    {
+      "name": "acompanha-projeto",
+      "source": "./mods/acompanha-projeto",
+      "description": "Andamento do projeto, LGPD e segurança em %, com o painel /projeto"
+    },
+    {
+      "name": "painel-mods",
+      "source": "./mods/painel-mods",
+      "description": "Comando /mods: ver, ligar e desligar os mods"
+    }
+  ]
+}

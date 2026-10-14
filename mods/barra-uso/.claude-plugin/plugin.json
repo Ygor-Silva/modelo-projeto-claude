@@ -1,0 +1,7 @@
+{
+  "name": "barra-uso",
+  "version": "0.2.1",
+  "description": "Faixa acima do prompt com o uso do contexto, da sessão de 5h e da semana, em grade de quadradinhos",
+  "author": { "name": "Ygor Silva" },
+  "types": "./types/index.d.ts"
+}
